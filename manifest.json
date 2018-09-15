@@ -1,6 +1,6 @@
 {
   "short_name": "CDBello",
-  "name": "CDBello<3",
+  "name": "CDBello2<3",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,5 +11,5 @@
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#212121",
-  "background_color": "#8bd2e0"
+  "background_color": "#e28830"
 }
